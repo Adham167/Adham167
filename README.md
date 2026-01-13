@@ -64,13 +64,13 @@
 ## 📫 Let's Connect
 
 <p align="center">
-  <a href="https://github.com/YOUR_USERNAME">
+  <a href="https://github.com/Adham167">
     <img src="https://img.icons8.com/ios-glyphs/30/ffffff/github.png"/>
   </a>
-  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN/">
+  <a href="www.linkedin.com/in/adham-abdelsalam-640309375">
     <img src="https://img.icons8.com/color/30/000000/linkedin.png"/>
   </a>
-  <a href="mailto:YOUR_EMAIL@gmail.com">
+  <a href="adhamabdelsalam2025@gmail.com">
     <img src="https://img.icons8.com/color/30/000000/gmail.png"/>
   </a>
 </p>
