@@ -1,4 +1,3 @@
-![coding](https://user-images.githubusercontent.com/7910856/87048834-84abea80-c1fc-11ea-9342-27b96a046ba4.gif)
 
 <h2 align="center">Flutter Developer | C++ Enthusiast | Problem Solver</h2>
 
