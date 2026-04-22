@@ -39,7 +39,7 @@
 <img src="https://img.shields.io/badge/WhatsApp-65B741?style=for-the-badge&logo=whatsapp&logoColor=white"/>
 </a>
 
-<a href="https://drive.google.com/file/d/1wGjg5jCBood83iKZrxgJktI6xQJF-CKf/view?usp=drive_link">
+<a href="https://drive.google.com/file/d/1z5XEj3X8viUiBIBScEx97D3Oh8uRO1w9/view?usp=drive_link">
 <img src="https://img.shields.io/badge/My%20CV-394AAB?style=for-the-badge&logo=google%20drive&logoColor=white"/>
 </a>
 
